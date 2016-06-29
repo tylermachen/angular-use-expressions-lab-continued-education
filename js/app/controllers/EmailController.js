@@ -5,7 +5,7 @@ function EmailController($filter) {
         this.emails.push({
             name: 'Bill Gates',
             subject: 'Want to buy a Surface?'
-        })
+        });
     };
 }
 
